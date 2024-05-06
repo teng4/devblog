@@ -13,5 +13,6 @@ module.exports = {
     linkedin: 'https://ca.linkedin.com/in/teng4',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://teng4.github.io/devblog/',
+  // siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://teng444.github.io/devblog/',
 };
